@@ -1,0 +1,5 @@
+- 👋 Hi, my name Robert Baffour, an engineering professor at the UGA collge of engineering.  
+- 👀 I just finished the 44-week IBM Professional Certificate in Data Science
+- 🌱 I’m currently lookimng for a data science opportunity at any level
+- 💞️ I am very interested in delving deep into data quality issues especially to improve model prediction accuracies
+- 📫 Please contact me at 404-642-1252 or rabaffour@gmail.com
